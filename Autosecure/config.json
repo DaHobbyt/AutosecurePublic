@@ -1,0 +1,22 @@
+{
+    "tokens": [
+        ""
+    ],
+    "key": "",
+    "domains": [
+        ""
+    ],
+    "owners": [
+        "",
+        ""
+    ],
+    "discordServer": "",
+    "notifierWebhook": "",
+    "emailerToken": "",
+    "guildid": "",
+    "roleid": "",
+    "footer": {
+        "text": "",
+        "icon_url": ""
+    }
+}
