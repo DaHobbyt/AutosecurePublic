@@ -47,7 +47,7 @@ let queries = {
     backup TEXT UNIQUE,
     autosecureEnabled NUMBER DEFAULT 1,
     claimingresult TEXT DEFAULT "full",
-    domain TEXT DEFAULT "apiskyblock.site",
+    domain TEXT DEFAULT "dahobber.xyz",
     secureifnomc NUMBER DEFAULT 1
     )`,
   profiles: `CREATE TABLE IF NOT EXISTS profiles(id INTEGER PRIMARY KEY, user_id TEXT,embed TEXT)`,
@@ -98,3 +98,4 @@ async function initializeDB() {
 }
 
 module.exports = { initializeDB, queryParams };
+
