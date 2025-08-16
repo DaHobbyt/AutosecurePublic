@@ -34,7 +34,7 @@ The purpose of this project is to provide a hands-on learning experience for stu
 node start autosecure.js
 ```
 
-**Note:** Before running the scripts, you must configure the necessary API keys and credentials. Refer to the `config_example.json` file for instructions.
+**Note:** Before running the scripts, you must configure the necessary API keys and credentials. Refer to the `config.json` file for instructions.
 
 ### Contributing
 
